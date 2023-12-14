@@ -8,6 +8,4 @@ source <(curl -s https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts
 ———————-
 
 
-lavad keys add wallet
-
-
+lavad keys add walle
